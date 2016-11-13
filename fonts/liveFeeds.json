@@ -1,0 +1,34 @@
+[
+    {
+        "stationName": "CCTV 1",
+        "liveFeedURL": "http://211.22.61.109/sta/ch323076.m3u8"
+    },
+    {
+        "stationName": "CCTV 2",
+        "liveFeedURL": "http://211.22.61.109/sta/ch323076.m3u8"
+    },
+    {
+        "stationName": "CCTV 3",
+        "liveFeedURL": "http://211.22.61.109/sta/ch323076.m3u8"
+    },
+    {
+        "stationName": "CCTV 4",
+        "liveFeedURL": "http://211.22.61.109/sta/ch323076.m3u8"
+    },
+    {
+        "stationName": "CCTV 5",
+        "liveFeedURL": "http://211.22.61.109/sta/ch323076.m3u8"
+    },
+    {
+        "stationName": "CCTV 6",
+        "liveFeedURL": "http://211.22.61.109/sta/ch323076.m3u8"
+    },
+    {
+        "stationName": "CCTV 7",
+        "liveFeedURL": "http://211.22.61.109/sta/ch323076.m3u8"
+    },
+    {
+        "stationName": "CCTV 8",
+        "liveFeedURL": "http://211.22.61.109/sta/ch323076.m3u8"
+    }
+]
